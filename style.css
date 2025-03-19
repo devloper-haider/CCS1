@@ -1,0 +1,19 @@
+.d{
+    border: 2px solid black;
+    display: inline-block;
+}
+.a{
+    height: 110px;
+    width: 600px;
+    background-color: #be0026;
+}
+.b{
+    height: 110px;
+    width: 600px;
+    background-color: #3c5aa3;
+}
+.c{
+    height: 120px;
+    width: 600px;
+    background-color: #e2ae58;
+}
